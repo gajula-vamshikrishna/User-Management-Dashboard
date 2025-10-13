@@ -251,7 +251,9 @@ npm run eject      # Eject from Create React App
 
 ## Screenshots
 
-*Note: Screenshots would be added here showing the dashboard, user form, and user details pages.*
+<img width="1908" height="975" alt="image" src="https://github.com/user-attachments/assets/a07ae2a5-7176-445a-b235-7403ee6e42b8" />
+User Dashboard
+
 
 ## Contributing
 
