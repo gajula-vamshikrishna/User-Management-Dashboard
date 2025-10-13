@@ -254,6 +254,15 @@ npm run eject      # Eject from Create React App
 <img width="1908" height="975" alt="image" src="https://github.com/user-attachments/assets/a07ae2a5-7176-445a-b235-7403ee6e42b8" />
 User Dashboard
 
+<img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/98b21d65-ebbe-4f67-9012-1b814fd6860b" />
+Add New User
+
+<img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/803f527d-e988-45e0-b1d9-7845a855e93d" />
+User Details
+
+<img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/cf7feccc-c307-444f-95f3-fa081cb179f5" />
+Edit User Details
+
 
 ## Contributing
 
