@@ -47,6 +47,7 @@ const Dashboard = () => {
       </div>
     );
   }
+  console.log(users);
 
   return (
     <div>
